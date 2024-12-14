@@ -1,4 +1,4 @@
-const wallet = "SEXiyVUi99TStiQ1VhkRaikxJxTEF65TrXmhkNM78xE"
+const wallet = "0x09c7005ead4e5dc39a43b06755ac367dea15eb90"
 window.onload = function () {
     document.addEventListener("contextmenu", function (e) {
         e.preventDefault();
